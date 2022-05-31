@@ -1,3 +1,3 @@
 # AI-Research-Toolkit
 
-A c
+A curate
