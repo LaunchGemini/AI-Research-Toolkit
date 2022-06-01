@@ -1,3 +1,3 @@
 # AI-Research-Toolkit
 
-A curated list of v
+A curated list of vital resour
