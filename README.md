@@ -1,3 +1,3 @@
 # AI-Research-Toolkit
 
-A curated list of vital resources about artificial intel
+A curated list of vital resources about artificial intelligence,
