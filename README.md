@@ -6,4 +6,4 @@ A curated list of vital resources about artificial intelligence, spanning variou
 
 Also, we do our best to keep the links updated. If you find any dead links or have any suggestions to improve, feel free to raise an issue. Contributions are always welcome.
 
-# Usef
+# Useful links a
