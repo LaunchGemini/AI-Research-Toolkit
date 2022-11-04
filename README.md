@@ -8,4 +8,4 @@ Also, we do our best to keep the links updated. If you find any dead links or ha
 
 # Useful links across various AI domains
 
-The repository contains a
+The repository contains a plet
