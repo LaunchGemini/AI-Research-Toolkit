@@ -8,4 +8,6 @@ Also, we do our best to keep the links updated. If you find any dead links or ha
 
 # Useful links across various AI domains
 
-The repository contains a plethora of useful resources categorized over different domains of AI. Here are few categories outline
+The repository contains a plethora of useful resources categorized over different domains of AI. Here are few categories outlined:
+
+### Re
