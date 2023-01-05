@@ -13,4 +13,5 @@ The repository contains a plethora of useful resources categorized over differen
 ### Related Useful Links
 This section includes references to different areas within AI.
 
-### Writing Ski
+### Writing Skills
+En
