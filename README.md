@@ -14,4 +14,4 @@ The repository contains a plethora of useful resources categorized over differen
 This section includes references to different areas within AI.
 
 ### Writing Skills
-Enlists resources about academic writing in
+Enlists resources about academic writing in diff
