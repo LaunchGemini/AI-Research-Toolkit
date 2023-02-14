@@ -16,4 +16,4 @@ This section includes references to different areas within AI.
 ### Writing Skills
 Enlists resources about academic writing in different fields of AI.
 
-### 
+### Great C
