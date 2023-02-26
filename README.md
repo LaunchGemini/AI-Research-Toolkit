@@ -17,4 +17,6 @@ This section includes references to different areas within AI.
 Enlists resources about academic writing in different fields of AI.
 
 ### Great Courses
-Contains references to online classes, video lectures, and coursework 
+Contains references to online classes, video lectures, and coursework on AI.
+
+##
