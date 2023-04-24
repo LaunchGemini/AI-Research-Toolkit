@@ -20,4 +20,4 @@ Enlists resources about academic writing in different fields of AI.
 Contains references to online classes, video lectures, and coursework on AI.
 
 ### Dataset List
-Provides a comprehensive list of datasets for different A
+Provides a comprehensive list of datasets for different AI appli
