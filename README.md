@@ -22,4 +22,5 @@ Contains references to online classes, video lectures, and coursework on AI.
 ### Dataset List
 Provides a comprehensive list of datasets for different AI applications.
 
-### Other Authors Paper 
+### Other Authors Paper List
+Re
