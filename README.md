@@ -23,4 +23,4 @@ Contains references to online classes, video lectures, and coursework on AI.
 Provides a comprehensive list of datasets for different AI applications.
 
 ### Other Authors Paper List
-References to papers and research work of sever
+References to papers and research work of several au
