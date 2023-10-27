@@ -26,4 +26,4 @@ Provides a comprehensive list of datasets for different AI applications.
 References to papers and research work of several authors in AI.
 
 ### Useful Toolbox
-A s
+A set of to
