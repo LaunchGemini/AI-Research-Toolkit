@@ -28,4 +28,4 @@ References to papers and research work of several authors in AI.
 ### Useful Toolbox
 A set of tools useful for AI coding and research.
 
-This is an open-source project and we enc
+This is an open-source project and we encoura
